@@ -1,0 +1,62 @@
+h1.header {
+	text-align:left;
+	font-size:200%;
+	padding:5px 5px 5px 5px;
+	font-family:Arial,Helvetica,sans-serif;
+}
+
+h1.main {
+	text-align:justify;
+	font-size:100%;
+	padding:5px 5px 5px 5px;
+	font-family:Arial,Helvetica,sans-serif;	
+}
+
+h2.username {
+	text-align:left;
+	font-size:150%;
+	padding:5px 5px 5px 5px;
+	font-family:Arial,Helvetica,sans-serif;
+}
+
+h2.header {
+	text-align:left;
+	font-size:150%;
+	padding:5px 5px 5px 5px;
+	font-family:Arial,Helvetica,sans-serif;
+}
+
+a.menu {
+	text-decoration:none;
+	font-size:90%;
+	color:black;
+	font-family:Arial,Helvetica,sans-serif;
+}
+
+#messaging  {
+	border-collapse:collapse;
+}
+
+#messaging th {
+	font-size:1.1em;
+	text-align:left;
+	padding-top:5px;
+	padding-bottom:5px;
+	background-color:#A7C942;
+	color:#ffffff;
+	font-family:Arial,Helvetica,sans-serif;
+}
+
+label.login {
+	font-family:Arial,Helvetica,sans-serif;
+	padding:5px 5px 5px 5px;
+}
+
+td.driver {
+	color: #000000;
+}
+
+td.nodriver {
+	color: #ff0000;
+	background-color:#cccccc;
+}
